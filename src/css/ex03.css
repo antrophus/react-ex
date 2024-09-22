@@ -1,0 +1,41 @@
+@charset "UTF-8";
+
+body{
+    font-size: 15px;
+    padding: 10px;
+}
+
+h1 {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+thead th{
+    font-weight: bold;
+    border: 1px solid #000000;
+}
+
+tbody {
+    border: 1px, solid, #000000;
+    text-align: center;
+
+}
+
+tr td{
+    border: 1px solid #000000;
+}
+
+img {
+    width: 33%; 
+    height: 33%;
+}
+
+#sign { 
+    text-align: right; 
+    font-weight: bold;
+}
