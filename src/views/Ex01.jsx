@@ -1,23 +1,6 @@
 //import 라이브러리
 import React from 'react';
-
-
-// import '../css/ex01.css';
 import { Link } from 'react-router-dom';
-//주석
-/*
-주석
-*/
-
-/* let personVo ={
-    name: '정우성',
-    hp: '010'
-} */
-
-//자바스크립트 객체
-/* let cssex = {
-    width: '20px'
-} */
 
 let name='함민규'
 
@@ -25,7 +8,6 @@ let cssex2 = {
     fontSize: '40px',
     fontWeight: 'bold'
 }
-
 
 const Ex01 = () => {
 
